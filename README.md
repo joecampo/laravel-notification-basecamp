@@ -34,7 +34,7 @@ class ReviewCreated extends Notification
 
     public function toCampfire($notifiable)
     {
-        return WebhookMessage::create()->data('Hello from my chatbot 🤖');
+        return CampfireMessage::create()->data('Hello from my chatbot 🤖');
     }
 }
 ```
