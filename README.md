@@ -1,6 +1,6 @@
 # laravel-notification-basecamp
 
-Basecamp 3 Chatbot Campfire notification channel for Laravel 5.8/6
+Basecamp 3 Chatbot Campfire notification channel for Laravel 5.8/6/7
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/joecampo/laravel-notification-basecamp.svg?style=flat-square)](https://packagist.org/packages/joecampo/laravel-notification-basecamp)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
