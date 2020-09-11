@@ -11,7 +11,7 @@ class CampfireMessage
     /**
      * Create a new Campfire message.
      *
-     * @return void
+     * @return static
      */
     public static function create()
     {
