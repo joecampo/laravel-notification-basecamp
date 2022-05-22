@@ -23,7 +23,7 @@ class CampfireMessage
      * https://github.com/basecamp/bc3-api/blob/master/sections/rich_text.md
      *
      * @param  string  $data
-     * @return this
+     * @return self
      */
     public function data($data)
     {
@@ -34,7 +34,7 @@ class CampfireMessage
      * Set the summary text when using details.
      *
      * @param  string  $summary
-     * @return this
+     * @return self
      */
     public function summary($summary)
     {
@@ -47,7 +47,7 @@ class CampfireMessage
      * Set the details that will be displayed in a dropdown.
      *
      * @param  string  $details
-     * @return this
+     * @return self
      */
     public function details($details)
     {
